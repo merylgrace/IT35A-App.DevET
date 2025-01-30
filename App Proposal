@@ -34,18 +34,52 @@ individuals make wise financial decisions, save for the future, and live within 
 (SDGs), particularly those addressing poverty reduction, economic growth, and responsible consumption, the expense tracker app aims to provide accessible 
 solutions that promote financial literacy, stability, and inclusivity.
 
-"Products/Performance/
-Output"	
+Objectives:
+- To develop an expense tracker app
+- To align the app's features with the United Nation's Sustainable Development Goals (SDGs)
+- To improve financial inclusion
 
-"Students create application proposals that are not only technically sound but also socially responsible, ethically aligned, and 
-impactful in addressing global challenges. In combination with the 17 SDGs, where you provide innovation to various disciplines not 
-just limited to the filed of computing and information technology.
+Key SDGs Targeted:
+1. SDG 1: No Poverty
+The app seeks to help users better handle their finances, save money, cut back on unnecessary expenses, and increase their financial security—all of 
+which will help to lower poverty.
+2. SDG 8: Decent Work and Economic Growth
+The app encourages better financial management, which is essential for economic empowerment, and promotes sustainable economic growth by helping people to 
+make informed financial decisions.
+3. SDG 10: Reduced Inequalities
+The app makes financial management tools accessible to all, including low-income individuals and underserved communities, addressing financial inequality.
+4. SDG 12: Responsible Consumption and Production
+The app supports responsible spending by assisting users in tracking their expenses and identifying areas where they may avoid unnecessary purchases, also 
+encouraging responsible spending habits.
 
-Provide a concise summary of your proposal, including:
-1. Objective: What is the purpose of the app, and how does it aim to address the SDGs?
-2. Key SDGs Targeted: mention the SDGs you are focusing on and how your app aligns with their goals. Does the app contribute to solving 
-real-world problems that align with global sustainability efforts?
-3. Key feautures: Briefly describe the main feautures of the app and how they contribute to the SDGs.
-4. Technical Architecture: Provide diagrams or technical documentation that outlines the architecture of the app.
-5. Research and Evidence: Include all link sources cited throughout the proposal, including literature reviews, research papers, and any 
-external references supporting the development of the application and its alignment with SDGs."			
+Key feautures:
+1. Input Data (Allowance and Savings Goal)
+- Users can input their daily, weekly, or monthly allowance and set a savings goal.
+- This feature empowers users to take control of their finances by planning their income and savings, directly contributing to SDG 1 (No Poverty) and SDG 8 
+(Decent Work and Economic Growth) by promoting financial stability and encouraging long-term savings.
+2. Add Expense
+- Users can record each expense, including the amount, item, and the reason for the purchase.
+- This allows users to manage their expenses, encourage responsible spending habits (SDG 12: Responsible Consumption and Production), and increase their 
+awareness of areas where they can reduce unnecessary expenses to save money for the future.
+3. Expense Summary (Daily, Weekly, Monthly)
+- The app provides a summary of expenses, showing the total amount saved over a specific period (daily, weekly, or monthly).
+- By visualizing savings and spending, this feature promotes responsible financial planning, contributing to SDG 1 (No Poverty) and SDG 8 (Decent Work and 
+Economic Growth) by helping users manage their finances effectively.
+4. Tips
+- The app offers tips on what items could have been avoided and provides suggestions for ways to save money.
+- This feature supports SDG 12 (Responsible Consumption and Production) by encouraging users to rethink their purchasing habits and make more sustainable 
+choices, helping reduce unnecessary spending.
+
+Technical Architecture:
+Miro Link: https://miro.com/app/board/uXjVLmNeSQ8=/?share_link_id=164690411426
+
+Research and Evidence:
+- The Economic Importance of Financial Literacy: Theory and Evidence
+Link: https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5
+
+- Financial Education
+Link: https://www.oecd.org/en/topics/financial-education.html
+
+- 
+
+Will add more rrl after some time. Too tired to look for more :(
