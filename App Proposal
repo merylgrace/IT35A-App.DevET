@@ -2,8 +2,7 @@ Goals
 
 - To create an expense tracker app which helps people to track and manage their daily expenses, while also promoting financial awareness and responsible spending.
 
-- To align the app's features with the United Nations' Sustainable Development Goals, particularly SDG 1 (No Poverty), SDG 8 (Decent Work and Economic Growth), 
-SDG 10 (Reduced Inequalities), and SDG 12 (Responsible Consumption and Production).
+- To align the app's features with the United Nations' Sustainable Development Goals, particularly SDG 1 (No Poverty) and SDG 12 (Responsible Consumption and Production).
 
 - To provide working individuals and business professionals with an efficient, accessible tool for managing expenses while encouraging sustainable financial 
 habits.
@@ -12,59 +11,51 @@ Roles
 - I am a developer working on an expense tracker app that will help people manage their finances, track expenses, and promote financial awareness.
 
 - I am also a researcher that aims on aligning the application with the United Nations' Sustainable Development Goals (SDGs) with the goal to contribute to 
-poverty reduction, economic growth, and responsible spending.
+poverty reduction and responsible spending.
 
 Audience	
 
 - Users looking for a dependable and user-friendly expense tracker app that helps them manage their finances, track everyday expenses, and improve their 
 financial literacy.
 
-- Underprivileged communities who can benefit from easily accessible financial management tools that promote responsible spending and financial stability.
-
-- Organizations and advocates who promote financial literacy and being inclusive may benefit from an app that aligns with the United Nations' Sustainable 
+- Organizations and advocates who promote literacy and awareness financially may benefit from an app that aligns with the United Nations' Sustainable 
 Development Goals (SDGs).
 
 Situation	
 
 - Many people experience financial problems as a result of poor handling of finances, a lack in financial literacy, and limited access to resources that can 
-assist them in efficiently tracking, saving, and budgeting their spending, especially in underprivileged and low-income regions. They consequently regularly 
-overspend, disregard savings, and accumulate debt, all of which make their financial difficulties worse. Many people lack the resources to manage their finances 
-because financial tools are sometimes too expensive or complicated. Sustainable financial practices are also becoming more and more important in order to assist 
-individuals make wise financial decisions, save for the future, and live within their means. By aligning with the United Nations' Sustainable Development Goals 
-(SDGs), particularly those addressing poverty reduction, economic growth, and responsible consumption, the expense tracker app aims to provide accessible 
-solutions that promote financial literacy, stability, and inclusivity.
+assist them in efficiently tracking, saving, and budgeting their spending. They consequently regularly overspend, disregard savings, and accumulate debt, all 
+of which make their financial difficulties worse. Many people lack the resources to manage their finances because financial tools are sometimes too expensive or 
+complicated. Sustainable financial practices are also becoming more and more important in order to assist individuals make wise financial decisions, save for the
+future, and live within their means. By aligning with the United Nations' Sustainable Development Goals (SDGs), particularly those addressing poverty reduction 
+and responsible consumption, this expense tracker app aims to provide accessible solutions that promote financial literacy and financial awareness.
 
 Objectives:
 - To develop an expense tracker app
 - To align the app's features with the United Nation's Sustainable Development Goals (SDGs)
-- To improve financial inclusion
+- To improve financial literacy and financial awareness
 
 Key SDGs Targeted:
 1. SDG 1: No Poverty
 The app seeks to help users better handle their finances, save money, cut back on unnecessary expenses, and increase their financial security—all of 
 which will help to lower poverty.
-2. SDG 8: Decent Work and Economic Growth
-The app encourages better financial management, which is essential for economic empowerment, and promotes sustainable economic growth by helping people to 
-make informed financial decisions.
-3. SDG 10: Reduced Inequalities
-The app makes financial management tools accessible to all, including low-income individuals and underserved communities, addressing financial inequality.
-4. SDG 12: Responsible Consumption and Production
+2. SDG 12: Responsible Consumption and Production
 The app supports responsible spending by assisting users in tracking their expenses and identifying areas where they may avoid unnecessary purchases, also 
 encouraging responsible spending habits.
 
 Key feautures:
 1. Input Data (Allowance and Savings Goal)
 - Users can input their daily, weekly, or monthly allowance and set a savings goal.
-- This feature empowers users to take control of their finances by planning their income and savings, directly contributing to SDG 1 (No Poverty) and SDG 8 
-(Decent Work and Economic Growth) by promoting financial stability and encouraging long-term savings.
+- This feature empowers users to take control of their finances by planning their income and savings, directly contributing to SDG 1 (No Poverty) by promoting 
+financial stability and encouraging long-term savings.
 2. Add Expense
 - Users can record each expense, including the amount, item, and the reason for the purchase.
 - This allows users to manage their expenses, encourage responsible spending habits (SDG 12: Responsible Consumption and Production), and increase their 
 awareness of areas where they can reduce unnecessary expenses to save money for the future.
 3. Expense Summary (Daily, Weekly, Monthly)
 - The app provides a summary of expenses, showing the total amount saved over a specific period (daily, weekly, or monthly).
-- By visualizing savings and spending, this feature promotes responsible financial planning, contributing to SDG 1 (No Poverty) and SDG 8 (Decent Work and 
-Economic Growth) by helping users manage their finances effectively.
+- By visualizing savings and spending, this feature promotes responsible financial planning, contributing to SDG 1 (No Poverty) by helping users manage their 
+finances effectively.
 4. Tips
 - The app offers tips on what items could have been avoided and provides suggestions for ways to save money.
 - This feature supports SDG 12 (Responsible Consumption and Production) by encouraging users to rethink their purchasing habits and make more sustainable 
@@ -79,7 +70,3 @@ Link: https://www.aeaweb.org/articles?id=10.1257/jel.52.1.5
 
 - Financial Education
 Link: https://www.oecd.org/en/topics/financial-education.html
-
-- 
-
-Will add more rrl after some time. Too tired to look for more :(
